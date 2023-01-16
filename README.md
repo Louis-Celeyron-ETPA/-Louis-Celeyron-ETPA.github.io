@@ -1,6 +1,28 @@
 # Mathieu Aubert
 
-Bonjour je m'appelle matthieu et je fais des petits trucs qui brillent c'est rigolo.
+<style>
+yellow
+{
+    color:yellow;
+    font-size:100%;
+    font-weight: bold; 
+}
+
+red
+{
+    color:red;
+    font-size:100%;
+    font-weight: bold; 
+}
+
+tiny
+{
+    font-size:50%;
+}
+</style>
+
+
+Bonjour je m'appelle <red>Matthieu</red> et je fais des <tiny>petits</tiny> trucs qui brillent c'est rigolo.
 
 Vous pouvez ici voir certains de mes travaux. Bananier
 
