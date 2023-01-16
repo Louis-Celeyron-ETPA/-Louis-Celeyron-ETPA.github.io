@@ -1,3 +1,6 @@
+
+ <link rel="stylesheet" type = "text/css" href="style.css">
+
 # Mathieu Aubert
 
 <style>
@@ -22,7 +25,7 @@ tiny
 </style>
 
 
-Bonjour je m'appelle <red>Matthieu</red> et je fais des <tiny>petits</tiny> trucs qui brillent c'est rigolo.
+<green>Bonjour</green> je m'appelle <red>Matthieu</red> et je fais des <tiny>petits</tiny> trucs qui brillent c'est rigolo.
 
 Vous pouvez ici voir certains de mes travaux. Bananier
 
